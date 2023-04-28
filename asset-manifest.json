@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reacting-a-portfolio/static/css/main.f9942120.css",
+    "main.js": "/reacting-a-portfolio/static/js/main.96471509.js",
+    "static/js/377.7bba6388.chunk.js": "/reacting-a-portfolio/static/js/377.7bba6388.chunk.js",
+    "static/media/Screenshot 2023-04-23 14.56.42.png": "/reacting-a-portfolio/static/media/Screenshot 2023-04-23 14.56.42.333a6fd9ea9ebd1e624d.png",
+    "static/media/Screenshot 2023-04-23 18.35.29.png": "/reacting-a-portfolio/static/media/Screenshot 2023-04-23 18.35.29.b03a5169455cf8df7895.png",
+    "static/media/40.jpg": "/reacting-a-portfolio/static/media/40.6aed3707529fb943f5f6.jpg",
+    "static/media/Marvel-Pic.jpg": "/reacting-a-portfolio/static/media/Marvel-Pic.e73e014ca763205c60f3.jpg",
+    "static/media/port.png": "/reacting-a-portfolio/static/media/port.9c8a1afd7200ecf0def4.png",
+    "static/media/placeholder.jpg": "/reacting-a-portfolio/static/media/placeholder.0fa10e28733cffa76950.jpg",
+    "static/media/coding.jpg": "/reacting-a-portfolio/static/media/coding.029a7d8aa11c5dee210f.jpg",
+    "index.html": "/reacting-a-portfolio/index.html",
+    "main.f9942120.css.map": "/reacting-a-portfolio/static/css/main.f9942120.css.map",
+    "main.96471509.js.map": "/reacting-a-portfolio/static/js/main.96471509.js.map",
+    "377.7bba6388.chunk.js.map": "/reacting-a-portfolio/static/js/377.7bba6388.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9942120.css",
+    "static/js/main.96471509.js"
+  ]
+}
